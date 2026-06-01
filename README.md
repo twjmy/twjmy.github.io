@@ -1,7 +1,9 @@
 ## 6.6尼可/杜林
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
+
 💬还没回(6/1)  
-👁️‍🗨️回了x10  
+👁️‍🗨️回了x11  
 ⏳确认中  
 🛰️微信  
 🔴没关注新号  
@@ -13,7 +15,7 @@
 💬|260|464|1|尼可
 🔴|86|245|1|0+0尼可
 🔴|119|248|2|尼可>杜林
-💬🛰️|176|240|1|尼可
+👁️‍🗨️🛰️|176|240|1|尼可
 💬|171|230|1|尼可
 👁️‍🗨️|245|220|2|尼可>杜林
 🔴|31|200|1|尼可

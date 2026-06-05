@@ -2,7 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
 
-💬还没回(※x?:几次没回 6/4 6:00)  
+💬还没回(※x?:几次没回 6/4 18:30)  
 👁️‍🗨️回了  
 ⏳确认中  
 🛰️微信  
@@ -25,7 +25,6 @@
 👁️‍🗨️|159|150|1|尼可
 🔴|116|140|2|尼可、杜林
 🔴|48|135|1|杜林
-💬x3🛰️|107|125|1|杜林
 💬x2|49|130,40|2,1|尼可>杜林,尼可
 👁️‍🗨️|102|120|1|尼可
 🔴|120|120|1|尼可>杜林

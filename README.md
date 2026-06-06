@@ -3,7 +3,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
 
 💬还没回x11(※x?:几次没回 6/6 17:40)  
-👁️‍🗨️回了x11  
+👁️‍🗨️回了x10  
 ⏳确认中  
 🛰️微信  
 🔴没关注新号x15  
@@ -26,7 +26,6 @@
 👁️‍🗨️|231|140|1|尼可
 🔴|48|135|1|杜林
 💬x4|49|130,40|2,1|尼可>杜林,尼可
-👁️‍🗨️|102|120|1|尼可
 🔴|120|120|1|尼可>杜林
 💬x3|144|120|1|杜林>杜专
 👁️‍🗨️|261|120|1|尼可

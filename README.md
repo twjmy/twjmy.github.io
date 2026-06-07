@@ -2,9 +2,9 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
 
-💬还没回x31  
+💬还没回x30  
 ※💬几次没回 6/7 11:00  
-👁️‍🗨️回了x9  
+👁️‍🗨️回了x10  
 ※👁️‍🗨️几点有空  
 ⏳确认中  
 🛰️微信  

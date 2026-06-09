@@ -1,4 +1,4 @@
-## 6.6尼可/杜林
+## 6.6洛恩/玛薇卡
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
 
@@ -12,8 +12,6 @@
 🔴没关注新号x44  
 🟢准备上号
 ✅上号抽了
-
-## 6.6洛恩/玛薇卡
 
 状态|号码牌|抽数(垫)|抽啥|id
 -|-|-|-|-

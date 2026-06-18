@@ -3,8 +3,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/twjmy/twjmy.github.io)](https://github.com/twjmy/twjmy.github.io/commits/)
 
   
-💬还没回x12 ※💬几次没回  
-👁️‍🗨️回了x7 ※👁️‍🗨️何时有空  
+💬还没回x11 ※💬几次没回  
+👁️‍🗨️回了x8 ※👁️‍🗨️何时有空  
 ⏳确认中  
 🛰️微信  
 🟠想再攒些  
@@ -28,7 +28,6 @@
 👁️‍🗨️|037|200(50)|2>1火神>命座|42535813084
 👁️‍🗨️|039|200|火神|yexushijieji72
 💬|040|200(75,30)|火神|63244810590
-💬|041|200|火神|28585676954
 💬|045|180|2+1火神|24676872445🛰️Washington6f
 💬|045.1|176|火神|heshang37478
 👁️‍🗨️|046|170|火神|dy1cxuwobgl26
